@@ -52,7 +52,3 @@ Após realizar todas as configurações acima, execute o script bash Analise Ava
 ## Contribuição
 
 Se quiser contribuir com o projeto, sinta-se à vontade para abrir um **Pull Request** ou relatar um **Issue**.
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
